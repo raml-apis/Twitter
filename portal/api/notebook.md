@@ -2,7 +2,7 @@ The API notebooks are all executable! Hit "enter" in any code cell to execute it
 
 #Considerations
 
-- In order to run these notebooks you will need a Twitter account. It might be registered at [https://twitter.com/](https://twitter.com/). At some point of the excecution, you will be prompted to authorize the client application to access to your account.
+- In order to run these notebooks you will must register a Twitter account at [https://twitter.com/](https://twitter.com/). At some point of the excecution, you will be prompted to authorize the client application to access your account.
 - At some point of execution you will be asked about your follower screen name. If you will enter the name and click ok - direct message will be send to this user. For short time this message may be visible to him but then it will be destroyed.
 - 'Statuses' notebook will update your status, this status update also will be destroyed in the process of notebook execution.
 - 'Statuses' notebook will retweet tweet
