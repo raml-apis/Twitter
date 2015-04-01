@@ -16,7 +16,7 @@ var screenName = "POlololoshechka";//just screen name for the tests
 ```
 
 ```javascript
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/8026/versions/8192/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 ```
 
 ```javascript
